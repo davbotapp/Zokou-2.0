@@ -28,7 +28,7 @@
     "NOM_BOT" : {
        
       "description":"Un nom pour votre bot",
-      "value":"Zokou-MD",
+      "value":"𝗗𝗮𝘃𝗯𝗼𝘁 𝗔𝗽𝗼",
       "required":false
 
     } ,
@@ -71,7 +71,7 @@
     "SESSION_ID":
     {
       "description":"veuillez renseigner votre id de session",   
-      "value":"",
+      "value":"Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUlHOEtyWmtrL0M5dUFvQVFJRUdYRk1yamJwVG5Ja3RWbWJML3FVaHltRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiekpXTUluZDcyYmt4L0pFWXhHbWRvb3hjaGFNWkZUWkdKcW9YcmR1NHVGOD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJHSXNWNEpXaVlmWHZWcSs3cFo1QkR3NXJkUEZUcGNWWGxZc3JyWTRpWjBzPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIvRUJSR2Zxa0FYZkhiV0czQWxlSkJNb3ZUVlhxbkkrT1Rob0xFT2lQTG1FPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitKemJ0ZmwyOU9sSU56dHNvSWpwWmpaTk94eitNUkhTQnRTSXhWV2haMkE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InVMVkF4RUNSd3Vzb1VWUFBnN2JndXpjOXpZMHVXV202VHlaM29sRDYzMVk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR082dUdmVGhCVWgwTGF0QWZVY1ZobWtlbEF2dEVNOXNNbU9EVWlyaHZXQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTzhGdEdrUmJraWJSNWNOMU9ZQUhrVDFRZkdsZS9WN3grTVNsSk41M3kzUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImdwbHphdVZTVWdPY1hPakhWZm4yY0loNHRKSlFMT01ZWkZhNDVYNjNmRjBxWUNEbHhkZWpURktHWnhYQzNkMURDdDZhcExlMG0zcklzR3FtWFFwZ2d3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTAxLCJhZHZTZWNyZXRLZXkiOiJSZ3RNRkFId2wwdXVNQmpVZzRELzFySU9FbGtiL0IwSWlpV0tBNWNRWVhZPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6ZmFsc2UsImFjY291bnQiOnsiZGV0YWlscyI6IkNPMnIrc0VGRUpEY3BNMEdHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJwMlYzVFQ3dk5CRUlmaWM0MnZjdHYrdlRuakx2cVljU3ZTYi9RS3RhTVR3PSIsImFjY291bnRTaWduYXR1cmUiOiJqakVRcDF6K0JXVXFuRzRjVVBmeVlTOGdtV1NDUVFiQldHeUhtZlFJcjI0VGlZa0kvYUVwN3NHYzBvTmwwdnVWWWIwQXcyYWg4S0hvUjFuaU1TVE5BZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiWXpmM3Q1MjJISWtMU2FYa0tjNWw0akVnMmRSbEVNNGtaWnBqWFZQSGI5ZmxwdFZaWG9TVjc2QUl6d2tvMG5CSTVEbU9GN2FYckFFYk9oVUhUcGVvaWc9PSJ9LCJtZSI6eyJpZCI6IjI0Mzk4MjY5Nzc1Mjo4QHMud2hhdHNhcHAubmV0IiwibGlkIjoiODU3MDY3MjY3NjA0ODg6OEBsaWQifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjQzOTgyNjk3NzUyOjhAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCYWRsZDAwKzd6UVJDSDRuT05yM0xiL3IwNTR5NzZtSEVyMG0vMENyV2pFOCJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0EwSUJRZ0MifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzcyNjk1MDYyLCJsYXN0UHJvcEhhc2giOiIzZ1BVSmsifQ==",
       "required":true
       
     },
@@ -80,14 +80,14 @@
     
     "description": "Votre nom",
     "required": false,
-    "value": "Djalega++"
+    "value": "𝗜𝗿 𝗱𝗮𝘃𝗶𝗱 𝗺𝗽𝗼𝗻𝗴𝗼"
   },
     "NUMERO_OWNER":
   {
     
     "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
     "required":false,
-    "value": "22891733300"
+    "value": "243800182016"
   },
     
 
@@ -95,7 +95,7 @@
   {
     "description": "il s'agit de nombre d'avertissement limite",
     "required": false,
-    "value": "3"
+    "value": "2"
   },
   "STARTING_BOT_MESSAGE":
   {
@@ -107,7 +107,7 @@
   {
     "description": "Mettez oui si vous voulez que les message supprimer vous sois envoyez en pv",
     "required": false,
-    "value": "non"
+    "value": "oui"
   }
   },
 
