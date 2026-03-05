@@ -19,14 +19,27 @@ jobs:
       with:
         node-version: 18
 
-    - name: Use HTTPS for Git dependencies
+    - name: Configure Git for HTTPS (fix Baileys)
       run: git config --global url."https://github.com/".insteadOf git@github.com
 
     - name: Install dependencies
       run: npm install
 
-    - name: Start Zokou-MD Bot
-      run: node index.js
+    - name: Install PM2 globally
+      run: npm install pm2 -g
+
+    - name: Start Zokou-MD with PM2
+      run: pm2 start index.js --name zokou-md --watch --max-memory-restart 490M
+
+    - name: Save PM2 process list
+      run: pm2 save
+
+    - name: Show PM2 logs
+      run: pm2 logs zokou-md --lines 100
+      continue-on-error: true
+
+    - name: Keep bot running with env
+      run: echo "Bot is running..."
       env:
         SESSION: ${{ secrets.SESSION }}
         BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
